@@ -63,11 +63,4 @@ As a manager a user want to generate a webpage that displays my team's basic inf
 
 # HTML screenshot
 
-
-
-
-
-Getting Started
-This Challenge will combine many of the skills we've covered so far. In addition to the User Story and Acceptance Criteria, we’ve provided some guidelines to help get started.
-Your application should use Jest for running the unit tests and Inquirer for collecting input from the user. The application will be invoked by using the following command:
-node index.js
+![image](https://github.com/antoninogambino/Team-HTML-generator/assets/112243266/490c1f4b-ea26-41bc-b137-56c33a99d2c9)
